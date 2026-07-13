@@ -1,5 +1,3 @@
-# adverse-weather-image-synthesis
-Semantic-Guided GAN Framework for Generating Adverse Weather Conditions from Clear-Weather Images
 # Semantic Image Synthesis under Adverse Weather Conditions
 Master's Research Project · University of Stuttgart · 2025
 
