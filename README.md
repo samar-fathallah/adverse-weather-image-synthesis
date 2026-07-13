@@ -15,7 +15,7 @@ The core contribution is a novel fusion strategy: clear-weather features are
 integrated through **dual SPADE normalization with a learnable fusion
 mechanism**, embedded within a three-pyramid generator architecture.
 
-![Architecture](figures/proposed_framework.jpeg)
+![Architecture](figures/proposed_framework.jpg)
 ![Methodology](figures/methodology.png)
 
 
